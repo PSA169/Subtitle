@@ -1,0 +1,2658 @@
+1
+00:00:14,333 --> 00:00:15,375
+Hello?
+
+2
+00:00:16,916 --> 00:00:18,208
+Hello?
+
+3
+00:00:18,958 --> 00:00:20,333
+Anybody there?
+
+4
+00:00:21,875 --> 00:00:24,166
+There's been a mistake!
+The fires weren't my fault!
+
+5
+00:00:24,250 --> 00:00:25,458
+And neither was the fight!
+
+6
+00:00:25,541 --> 00:00:26,791
+Save your voice.
+
+7
+00:00:26,875 --> 00:00:30,000
+Earth Kingdom soldiers
+aren't particularly tolerant,
+
+8
+00:00:30,083 --> 00:00:32,416
+even under the best of circumstances.
+
+9
+00:00:33,166 --> 00:00:37,875
+And these are most definitely
+not the best of circumstances.
+
+10
+00:00:37,958 --> 00:00:39,208
+General Iroh.
+
+11
+00:00:39,708 --> 00:00:42,041
+It's good to see you, young Avatar.
+
+12
+00:00:42,125 --> 00:00:43,166
+And Zuko?
+
+13
+00:00:43,791 --> 00:00:45,041
+They capture him too?
+
+14
+00:00:45,791 --> 00:00:50,083
+I hope not. With any luck, he's probably
+halfway back to his ship by now.
+
+15
+00:00:50,166 --> 00:00:51,791
+This is all his fault.
+
+16
+00:00:51,875 --> 00:00:54,833
+He started the fight
+and left you behind and ran away.
+
+17
+00:00:55,333 --> 00:00:57,708
+I'm really starting to see
+what kind of person he is.
+
+18
+00:00:59,041 --> 00:01:00,041
+I doubt that.
+
+19
+00:01:00,708 --> 00:01:02,333
+What do you think will happen to us?
+
+20
+00:01:07,291 --> 00:01:08,291
+I don't know.
+
+21
+00:01:09,041 --> 00:01:10,000
+But in my experience,
+
+22
+00:01:10,083 --> 00:01:13,916
+the Earthbenders aren't exactly kind
+to their fallen foes.
+
+23
+00:01:19,583 --> 00:01:20,625
+Is it true?
+
+24
+00:01:21,541 --> 00:01:23,291
+Were you working with the enemy?
+
+25
+00:01:25,750 --> 00:01:27,000
+It's complicated.
+
+26
+00:01:27,083 --> 00:01:30,416
+No, it's not. It's a simple question.
+Were you helping the Firebenders?
+
+27
+00:01:39,958 --> 00:01:40,791
+Yes.
+
+28
+00:01:44,833 --> 00:01:45,916
+Teo.
+
+29
+00:01:47,583 --> 00:01:49,458
+I was trying to protect you.
+
+30
+00:01:49,541 --> 00:01:51,625
+The Firebenders said
+that they would kill us
+
+31
+00:01:51,708 --> 00:01:54,416
+and then they'd attack the city
+if I didn't cooperate.
+
+32
+00:01:54,916 --> 00:01:59,291
+The only reason Omashu has been left alone
+is because of whatever service I provided.
+
+33
+00:01:59,375 --> 00:02:02,541
+Service? Is that what you call
+giving weapons to the enemy?
+
+34
+00:02:02,625 --> 00:02:05,208
+Weapons? No.
+No, no, no, no, just minor designs.
+
+35
+00:02:05,291 --> 00:02:06,875
+Nothing of any value in war.
+
+36
+00:02:06,958 --> 00:02:09,458
+Anything can be turned into a weapon
+in the wrong hands.
+
+37
+00:02:10,458 --> 00:02:12,333
+Especially with the Fire Nation.
+
+38
+00:02:13,666 --> 00:02:14,625
+Sokka.
+
+39
+00:02:15,958 --> 00:02:18,083
+You know what it means
+to make hard choices.
+
+40
+00:02:18,166 --> 00:02:20,708
+Your father had to leave your family
+to go to war,
+
+41
+00:02:20,791 --> 00:02:24,541
+leaving you, just a boy, in charge.
+
+42
+00:02:26,583 --> 00:02:28,250
+We do what we must
+
+43
+00:02:29,250 --> 00:02:30,541
+to survive.
+
+44
+00:02:30,625 --> 00:02:32,125
+We compromise
+
+45
+00:02:32,916 --> 00:02:34,166
+just enough to get by.
+
+46
+00:02:34,666 --> 00:02:36,791
+My father would've never done
+what you did.
+
+47
+00:02:41,625 --> 00:02:43,000
+I found him.
+
+48
+00:02:43,500 --> 00:02:44,708
+Aang's in prison.
+
+49
+00:03:38,208 --> 00:03:39,041
+Aang!
+
+50
+00:03:40,083 --> 00:03:40,958
+Hey, Aang!
+
+51
+00:03:41,500 --> 00:03:44,291
+Oh, hey, Bumi. How's training going?
+
+52
+00:03:44,375 --> 00:03:47,625
+I'm doing all right with my forms,
+but shaping is hard.
+
+53
+00:03:47,708 --> 00:03:50,875
+What are you talking about?
+Looks exactly like a sky bison.
+
+54
+00:03:50,958 --> 00:03:52,958
+It's supposed to be a badgermole.
+
+55
+00:03:53,041 --> 00:03:54,541
+You sure?
+
+56
+00:03:59,083 --> 00:04:02,208
+There's nothing like earthbending masonry.
+
+57
+00:04:03,250 --> 00:04:04,500
+No seams.
+
+58
+00:04:05,791 --> 00:04:08,000
+That's what makes their cities a wonder.
+
+59
+00:04:08,083 --> 00:04:12,250
+Awe-inspiring palaces,
+gravity-defying towers.
+
+60
+00:04:13,541 --> 00:04:15,500
+Impenetrable prisons.
+
+61
+00:04:16,000 --> 00:04:18,333
+I like the parts of Omashu
+that aren't so depressing.
+
+62
+00:04:18,416 --> 00:04:21,000
+Hmm. Cities are like people.
+
+63
+00:04:21,083 --> 00:04:22,916
+They always have their dark sides.
+
+64
+00:04:23,000 --> 00:04:25,583
+Seems pretty dark
+on all the sides these days.
+
+65
+00:04:25,666 --> 00:04:28,750
+Yeah, what happened here
+happened the world over.
+
+66
+00:04:29,833 --> 00:04:31,750
+That's what a century of war will do.
+
+67
+00:04:31,833 --> 00:04:33,875
+A war started by the Fire Nation.
+
+68
+00:04:34,875 --> 00:04:37,208
+- And a war the Fire Nation could end.
+- Hmm.
+
+69
+00:04:37,958 --> 00:04:39,416
+If it were only that simple.
+
+70
+00:04:40,875 --> 00:04:45,000
+My brother, the Fire Lord,
+sees things through only one lens,
+
+71
+00:04:45,625 --> 00:04:47,750
+victory or defeat.
+
+72
+00:04:48,666 --> 00:04:49,958
+Nothing else matters.
+
+73
+00:04:55,208 --> 00:04:57,708
+Not even the loved ones
+lost along the way.
+
+74
+00:04:58,250 --> 00:05:00,666
+That's why Zuko's
+so hot to catch me?
+
+75
+00:05:00,750 --> 00:05:03,750
+So he can win this war for his dad?
+
+76
+00:05:05,000 --> 00:05:07,625
+Zuko's victory lies not in winning the war
+
+77
+00:05:08,500 --> 00:05:10,375
+but in winning his life back.
+
+78
+00:05:10,458 --> 00:05:13,875
+You could show him this isn't the way.
+He'll listen to you.
+
+79
+00:05:15,125 --> 00:05:17,958
+I mean, he owes you that much.
+
+80
+00:05:20,416 --> 00:05:21,583
+On the contrary,
+
+81
+00:05:22,708 --> 00:05:24,833
+it is I who owe him.
+
+82
+00:05:28,916 --> 00:05:30,750
+Far more than I can ever repay.
+
+83
+00:05:32,791 --> 00:05:34,041
+Impossible!
+
+84
+00:05:34,541 --> 00:05:38,250
+Omashu's prison is deep in the heart
+of the mountain surrounded by solid rock.
+
+85
+00:05:38,333 --> 00:05:40,333
+The only way in or out
+is through the palace.
+
+86
+00:05:41,541 --> 00:05:44,166
+I'm sorry. The Avatar is lost.
+
+87
+00:05:46,416 --> 00:05:47,875
+We're not leaving Aang.
+
+88
+00:05:48,458 --> 00:05:50,333
+You can get us into the palace.
+
+89
+00:05:52,500 --> 00:05:54,375
+Not after today. I'm sorry. I can't.
+
+90
+00:05:54,458 --> 00:05:56,000
+What about the tunnels?
+
+91
+00:05:58,208 --> 00:05:59,083
+Tunnels?
+
+92
+00:06:00,208 --> 00:06:02,375
+The secret tunnels
+hidden under the mountain.
+
+93
+00:06:02,458 --> 00:06:05,750
+It's said that the founders of the city
+used them to meet without anyone knowing.
+
+94
+00:06:06,416 --> 00:06:08,750
+-A fairy tale.
+-You told me you've seen them.
+
+95
+00:06:10,291 --> 00:06:11,875
+Unless that was a lie too.
+
+96
+00:06:15,125 --> 00:06:17,625
+Yes, there are tunnels,
+but they're unstable.
+
+97
+00:06:17,708 --> 00:06:19,458
+Those who go in never come out.
+
+98
+00:06:19,541 --> 00:06:23,291
+If you believe the tales,
+vengeful spirits guard the passages.
+
+99
+00:06:23,375 --> 00:06:26,375
+So not just secret tunnels.
+
+100
+00:06:26,458 --> 00:06:28,541
+Secret haunted tunnels?
+
+101
+00:06:29,125 --> 00:06:31,625
+Even if I could figure out a way
+to get them through the tunnels,
+
+102
+00:06:31,708 --> 00:06:33,625
+there's nothing
+I can do about the palace guards.
+
+103
+00:06:33,708 --> 00:06:36,500
+We'll worry about that.
+Just help us get inside.
+
+104
+00:06:43,000 --> 00:06:44,625
+Where are you taking him?
+
+105
+00:06:45,333 --> 00:06:46,333
+To the Pit.
+
+106
+00:06:47,416 --> 00:06:48,458
+The Pit?
+
+107
+00:06:48,541 --> 00:06:51,500
+An Earth Kingdom labor camp
+for prisoners of war.
+
+108
+00:06:52,041 --> 00:06:55,166
+No one who's been sent there
+has ever been heard from again.
+
+109
+00:07:02,333 --> 00:07:04,916
+You… you're not as lucky.
+
+110
+00:07:06,458 --> 00:07:08,166
+You're going to see the king.
+
+111
+00:07:16,500 --> 00:07:19,958
+These maps don't make any sense.
+This one says to travel east.
+
+112
+00:07:20,041 --> 00:07:21,583
+This one shows a path due south.
+
+113
+00:07:21,666 --> 00:07:25,541
+And this one… spirals straight up.
+
+114
+00:07:26,625 --> 00:07:28,166
+Um… hmm…
+
+115
+00:07:32,541 --> 00:07:33,666
+What is it?
+
+116
+00:07:34,541 --> 00:07:36,541
+It's my Fire Nation contact.
+
+117
+00:07:40,125 --> 00:07:41,500
+Tell him you'll meet him.
+
+118
+00:07:41,583 --> 00:07:44,458
+Then go to the Earth Kingdom generals
+and let them know they can set a trap
+
+119
+00:07:44,541 --> 00:07:45,958
+to round up these spies.
+
+120
+00:07:46,041 --> 00:07:49,250
+No. No.
+No, no, no, the Firebenders made it clear.
+
+121
+00:07:49,333 --> 00:07:51,833
+Any resistance and they'll send
+everything they've got at us.
+
+122
+00:07:51,916 --> 00:07:53,083
+Let them come.
+
+123
+00:07:54,291 --> 00:07:56,375
+The Avatar has returned to the world.
+
+124
+00:07:56,875 --> 00:07:58,375
+It's time to stop hiding.
+
+125
+00:07:59,416 --> 00:08:00,875
+It's time to fight.
+
+126
+00:08:15,166 --> 00:08:16,625
+Your Highness.
+
+127
+00:08:16,708 --> 00:08:17,791
+Hmm?
+
+128
+00:08:18,958 --> 00:08:20,875
+The prisoner you requested.
+
+129
+00:08:21,791 --> 00:08:24,791
+He was caught fighting,
+destroying property.
+
+130
+00:08:25,291 --> 00:08:26,875
+Menacing the people.
+
+131
+00:08:28,625 --> 00:08:31,375
+And he's an Airbender.
+
+132
+00:08:35,625 --> 00:08:36,500
+Huh?
+
+133
+00:08:38,041 --> 00:08:41,291
+Lotus root, pine bark, dried jasmine.
+
+134
+00:08:44,083 --> 00:08:44,916
+Hmm?
+
+135
+00:08:46,750 --> 00:08:49,333
+Lotus root, pine bark, dried jasmine,
+
+136
+00:08:49,416 --> 00:08:52,166
+scalding hot water,
+steeped for two minutes!
+
+137
+00:08:52,958 --> 00:08:53,791
+Tea?
+
+138
+00:08:55,708 --> 00:08:56,541
+Okay.
+
+139
+00:08:56,625 --> 00:08:58,250
+And you're wrong about him.
+
+140
+00:08:58,875 --> 00:08:59,958
+We witnessed the bending--
+
+141
+00:09:00,041 --> 00:09:01,375
+Wrong!
+
+142
+00:09:01,458 --> 00:09:04,500
+He is not just an Airbender.
+
+143
+00:09:05,125 --> 00:09:07,583
+He is the master of all four elements.
+
+144
+00:09:07,666 --> 00:09:09,583
+The savior of the world.
+
+145
+00:09:10,208 --> 00:09:11,208
+He is
+
+146
+00:09:12,208 --> 00:09:13,250
+the Avatar.
+
+147
+00:09:15,750 --> 00:09:18,208
+And he's very, very good at rock skipping.
+
+148
+00:09:21,541 --> 00:09:22,416
+Ooh.
+
+149
+00:09:23,958 --> 00:09:24,791
+Bumi?
+
+150
+00:09:25,500 --> 00:09:26,750
+Hello, Aang.
+
+151
+00:09:27,375 --> 00:09:28,333
+Bumi!
+
+152
+00:09:31,375 --> 00:09:32,750
+How are you still alive?
+
+153
+00:09:32,833 --> 00:09:36,458
+Uh, clean living, the right diet,
+ooh, and luck.
+
+154
+00:09:36,541 --> 00:09:38,458
+Hard to say if it's good or bad luck.
+
+155
+00:09:38,541 --> 00:09:41,458
+But more importantly,
+how are you still alive?
+
+156
+00:09:42,166 --> 00:09:43,583
+And still a child?
+
+157
+00:09:44,833 --> 00:09:46,625
+- It's a long story.
+- Huh.
+
+158
+00:09:46,708 --> 00:09:49,291
+Ooh!
+
+159
+00:09:50,833 --> 00:09:51,666
+Ah.
+
+160
+00:09:53,500 --> 00:09:54,625
+Ah!
+
+161
+00:09:55,583 --> 00:09:56,833
+Pine bark?!
+
+162
+00:09:58,708 --> 00:10:02,250
+What idiot told you
+to put pine bark in it?
+
+163
+00:10:04,416 --> 00:10:05,458
+You did.
+
+164
+00:10:08,375 --> 00:10:09,791
+Mmm.
+
+165
+00:10:09,875 --> 00:10:11,416
+Throw him…
+
+166
+00:10:15,083 --> 00:10:16,000
+…a feast.
+
+167
+00:10:54,583 --> 00:10:55,416
+Jet.
+
+168
+00:10:57,375 --> 00:10:58,625
+You betrayed us.
+
+169
+00:10:59,291 --> 00:11:00,291
+Betrayed you?
+
+170
+00:11:01,083 --> 00:11:03,250
+I stopped you
+from killing innocent people.
+
+171
+00:11:03,333 --> 00:11:07,333
+Innocent? Spies, traitors.
+Is that who you wanted to save?
+
+172
+00:11:07,416 --> 00:11:09,583
+Not everyone out there is the enemy.
+
+173
+00:11:09,666 --> 00:11:11,333
+If you stand against us…
+
+174
+00:11:13,041 --> 00:11:14,000
+you are.
+
+175
+00:11:17,458 --> 00:11:20,416
+Life may be simple in the South Pole,
+
+176
+00:11:21,000 --> 00:11:23,250
+but here, you have to make hard decisions.
+
+177
+00:11:23,791 --> 00:11:25,625
+That's what it means to fight a war.
+
+178
+00:11:27,458 --> 00:11:28,958
+I thought you were on our side.
+
+179
+00:11:31,166 --> 00:11:32,416
+On my side.
+
+180
+00:11:32,500 --> 00:11:35,583
+Jet, you've forgotten
+what you're fighting for.
+
+181
+00:11:35,666 --> 00:11:38,541
+You told me to remember my mother,
+and I did.
+
+182
+00:11:38,625 --> 00:11:41,708
+I remembered she never wanted
+bitterness to fill my heart.
+
+183
+00:11:42,666 --> 00:11:45,291
+That's how I know you've ended up
+on the wrong side,
+
+184
+00:11:45,375 --> 00:11:47,125
+not fighting for anything you love.
+
+185
+00:11:47,208 --> 00:11:48,875
+You're fighting because of hate.
+
+186
+00:11:51,000 --> 00:11:52,333
+Just like the Firebenders.
+
+187
+00:11:53,583 --> 00:11:56,791
+I am nothing like the Firebenders.
+
+188
+00:12:18,791 --> 00:12:19,833
+Goodbye, Jet.
+
+189
+00:12:21,291 --> 00:12:23,958
+Look at the power you have.
+That's because of me.
+
+190
+00:12:24,041 --> 00:12:25,083
+That wasn't you.
+
+191
+00:12:25,916 --> 00:12:26,958
+That was me.
+
+192
+00:12:46,875 --> 00:12:48,041
+You!
+
+193
+00:12:48,708 --> 00:12:50,041
+You don't belong here.
+
+194
+00:12:50,875 --> 00:12:54,458
+Sir, I was assigned
+prisoner transfer duty,
+
+195
+00:12:54,541 --> 00:12:58,000
+but I'm… well, I'm late.
+
+196
+00:12:58,083 --> 00:13:02,458
+And… and if my commander finds out…
+I'm already in enough trouble this month.
+
+197
+00:13:04,083 --> 00:13:07,541
+The old Firebender was taken to the Pit.
+The other one's still here.
+
+198
+00:13:09,250 --> 00:13:10,166
+Other one?
+
+199
+00:13:10,250 --> 00:13:12,958
+Yeah, the bald kid.
+The king wanted to see him.
+
+200
+00:13:14,000 --> 00:13:15,958
+Well, you just gonna stand there?
+
+201
+00:13:16,708 --> 00:13:18,041
+What are you gonna do?
+
+202
+00:13:24,041 --> 00:13:24,875
+Hmm.
+
+203
+00:13:24,958 --> 00:13:27,458
+For your meal, I offer you two choices.
+
+204
+00:13:28,958 --> 00:13:31,291
+Short ribs from Kangaroo Island.
+
+205
+00:13:31,375 --> 00:13:34,458
+They practically jump into your mouth!
+
+206
+00:13:40,250 --> 00:13:43,958
+And the other, seaweed stew.
+
+207
+00:13:44,041 --> 00:13:46,541
+Heard it really "kelps"
+with your complexion.
+
+208
+00:13:51,000 --> 00:13:52,791
+I'm good. That was a good one.
+
+209
+00:13:52,875 --> 00:13:54,041
+I'll take the stew.
+
+210
+00:13:55,125 --> 00:13:55,958
+Hmm?
+
+211
+00:13:56,041 --> 00:13:57,333
+I don't eat meat.
+
+212
+00:13:58,666 --> 00:14:00,041
+That's right. You don't.
+
+213
+00:14:03,083 --> 00:14:04,375
+Good choice.
+
+214
+00:14:08,458 --> 00:14:10,500
+Wait. Was this a test?
+
+215
+00:14:10,583 --> 00:14:12,083
+What? A test?
+
+216
+00:14:12,166 --> 00:14:15,500
+No. More like a… a game.
+
+217
+00:14:15,583 --> 00:14:17,666
+You always liked games, didn't you?
+
+218
+00:14:18,208 --> 00:14:22,791
+So, frozen in an iceberg
+for a hundred years, huh?
+
+219
+00:14:23,291 --> 00:14:26,083
+That must've been… nice.
+
+220
+00:14:26,166 --> 00:14:27,666
+No, it was a nightmare.
+
+221
+00:14:27,750 --> 00:14:30,583
+Ah, come on.
+How bad could it have been, huh?
+
+222
+00:14:30,666 --> 00:14:33,500
+The world is on fire, people are dying,
+
+223
+00:14:33,583 --> 00:14:37,958
+and you… you got to sleep through it all.
+
+224
+00:14:38,041 --> 00:14:40,333
+All the Airbenders were wiped out.
+
+225
+00:14:42,208 --> 00:14:43,916
+And I wasn't there to help them.
+
+226
+00:14:44,000 --> 00:14:48,291
+Oh, those monks were always a bit flighty.
+Am I right?
+
+227
+00:14:48,375 --> 00:14:49,958
+Huh?
+
+228
+00:14:50,041 --> 00:14:51,708
+It was a tragedy.
+
+229
+00:14:52,291 --> 00:14:54,000
+And it might happen again,
+
+230
+00:14:54,541 --> 00:14:57,250
+which is why I need to get
+to the Northern Water Tribe
+
+231
+00:14:57,333 --> 00:14:59,125
+as soon as possible,
+
+232
+00:14:59,208 --> 00:15:01,291
+which is why you need to let me go.
+
+233
+00:15:01,791 --> 00:15:03,916
+So I can save the Waterbenders.
+
+234
+00:15:04,000 --> 00:15:04,833
+Hmm.
+
+235
+00:15:05,458 --> 00:15:06,333
+Huh.
+
+236
+00:15:06,833 --> 00:15:09,458
+"Lettuce" leave.
+
+237
+00:15:10,166 --> 00:15:12,250
+Nah, da, da, da, da, da, da.
+
+238
+00:15:13,750 --> 00:15:16,750
+Bumi! This is important.
+
+239
+00:15:16,833 --> 00:15:18,000
+Don't you care?
+
+240
+00:15:20,458 --> 00:15:21,375
+Care?
+
+241
+00:15:23,250 --> 00:15:27,750
+You dare tell me I should care?
+
+242
+00:15:28,583 --> 00:15:32,375
+Have you been fighting
+the same fight for a century?
+
+243
+00:15:32,875 --> 00:15:36,958
+Have you watched
+your whole world burn down around you?
+
+244
+00:15:37,666 --> 00:15:38,625
+Hmm?
+
+245
+00:15:40,083 --> 00:15:42,708
+Let me tell you something, Avatar.
+
+246
+00:15:44,000 --> 00:15:46,625
+You may be a hundred years old,
+
+247
+00:15:48,416 --> 00:15:53,541
+but you haven't lived for a hundred years,
+
+248
+00:15:54,041 --> 00:15:57,833
+especially not these hundred years.
+
+249
+00:15:58,750 --> 00:16:01,041
+You can't make me believe
+you've lost hope.
+
+250
+00:16:03,125 --> 00:16:04,291
+Not you, Bumi.
+
+251
+00:16:04,916 --> 00:16:06,583
+Oh really?
+
+252
+00:16:09,291 --> 00:16:11,833
+Challenge accepted.
+
+253
+00:16:21,333 --> 00:16:22,666
+This can't be right.
+
+254
+00:16:22,750 --> 00:16:24,708
+This was the only opening
+in the mountain.
+
+255
+00:16:25,458 --> 00:16:26,541
+Are you sure?
+
+256
+00:16:27,708 --> 00:16:28,708
+Listen.
+
+257
+00:16:29,541 --> 00:16:32,583
+Do you hear… music?
+
+258
+00:16:39,166 --> 00:16:43,916
+♪ <i>When you find yourself in darkness </i>♪
+
+259
+00:16:45,791 --> 00:16:51,916
+♪ <i>And all you see are rocks and stones… </i>♪
+
+260
+00:16:52,000 --> 00:16:54,000
+Oh good. Grab that, would you?
+
+261
+00:16:54,083 --> 00:16:57,708
+♪ <i>Remember that a precious gift </i>♪
+
+262
+00:16:57,791 --> 00:17:00,625
+♪ <i>Lies buried deep inside… </i>♪
+
+263
+00:17:00,708 --> 00:17:01,541
+Shake it.
+
+264
+00:17:01,625 --> 00:17:07,333
+♪ <i>So dig a bit and you will find </i>♪
+
+265
+00:17:08,291 --> 00:17:11,500
+♪ <i>Jewel of my heart </i>♪
+
+266
+00:17:12,041 --> 00:17:16,416
+♪ <i>Jewel of my heart ♪</i>
+
+267
+00:17:16,500 --> 00:17:17,458
+♪ <i>Yeah </i>♪
+
+268
+00:17:25,666 --> 00:17:29,458
+Yeah. That was all kinds of right.
+So what are you doing here?
+
+269
+00:17:29,541 --> 00:17:32,125
+What are <i>we </i>doing here?
+What are <i>you </i>doing here?
+
+270
+00:17:32,958 --> 00:17:34,625
+We're doing what we're doing.
+
+271
+00:17:35,208 --> 00:17:38,000
+Right, but… why are you doing it here?
+
+272
+00:17:38,083 --> 00:17:39,375
+Acoustics.
+
+273
+00:17:39,958 --> 00:17:41,125
+Best in Omashu.
+
+274
+00:17:48,416 --> 00:17:49,416
+Hear that?
+
+275
+00:17:50,000 --> 00:17:52,875
+Harmony. That's what we're all about.
+
+276
+00:17:52,958 --> 00:17:56,291
+Harmony, music, love.
+
+277
+00:17:58,708 --> 00:18:02,833
+If these guys are okay being here,
+the tunnels probably aren't that bad.
+
+278
+00:18:03,833 --> 00:18:07,458
+Tunnels? Oh, no, these aren't the tunnels.
+
+279
+00:18:10,208 --> 00:18:12,041
+Those are the tunnels.
+
+280
+00:18:19,458 --> 00:18:21,541
+Yeah, I wouldn't go in there.
+
+281
+00:18:22,208 --> 00:18:23,250
+We don't have a choice.
+
+282
+00:18:25,416 --> 00:18:26,791
+We have to find our friend.
+
+283
+00:18:28,375 --> 00:18:29,875
+Well, in that case,
+
+284
+00:18:30,625 --> 00:18:32,166
+you should probably see this.
+
+285
+00:18:32,250 --> 00:18:34,208
+It's a tale of two lovers.
+
+286
+00:18:38,291 --> 00:18:42,250
+<i>Oma and Shu met on top of the mountain</i>
+<i>that divided their two villages.</i>
+
+287
+00:18:44,916 --> 00:18:47,958
+<i>The villages were enemies,</i>
+<i>so they couldn't be together,</i>
+
+288
+00:18:48,041 --> 00:18:50,958
+<i>but their love was strong,</i>
+<i>so they found a way.</i>
+
+289
+00:18:52,375 --> 00:18:54,541
+<i>They learned earthbending</i>
+<i>from the badgermoles,</i>
+
+290
+00:18:54,625 --> 00:18:56,583
+<i>becoming the first Earthbenders.</i>
+
+291
+00:19:00,541 --> 00:19:03,791
+<i>They built elaborate tunnels</i>
+<i>so that they could meet secretly.</i>
+
+292
+00:19:06,541 --> 00:19:09,375
+<i>But one day, Oma didn't come.</i>
+
+293
+00:19:10,125 --> 00:19:12,000
+<i>She'd been killed in an attack.</i>
+
+294
+00:19:14,291 --> 00:19:17,375
+<i>Devastated, Shu wielded</i>
+<i>her earthbending power</i>
+
+295
+00:19:17,458 --> 00:19:19,666
+<i>to bring the villages to their knees.</i>
+
+296
+00:19:21,791 --> 00:19:23,750
+<i>She could've destroyed them all.</i>
+
+297
+00:19:25,791 --> 00:19:28,708
+<i>But instead, she declared the war over.</i>
+
+298
+00:19:32,166 --> 00:19:36,208
+<i>Both villages helped her build a new city</i>
+<i>where they would live together in peace.</i>
+
+299
+00:19:36,708 --> 00:19:41,291
+<i>The great city was named Omashu</i>
+<i>as a monument to their love.</i>
+
+300
+00:19:47,333 --> 00:19:49,250
+"Love is brightest in the dark."
+
+301
+00:19:50,875 --> 00:19:51,916
+Remember that,
+
+302
+00:19:52,583 --> 00:19:54,750
+especially if you're going to go
+into the dark void
+
+303
+00:19:54,833 --> 00:19:56,916
+from which no living being ever returns.
+
+304
+00:19:59,833 --> 00:20:02,708
+♪ <i>Oh, two lovers… </i>♪
+
+305
+00:20:02,791 --> 00:20:05,916
+It'll be okay.
+There's nothing to be afraid of in there.
+
+306
+00:20:06,666 --> 00:20:10,458
+Right. There's no such thing
+as angry spirits.
+
+307
+00:20:13,125 --> 00:20:15,708
+<i>♪ Secret tunnel ♪</i>
+
+308
+00:20:15,791 --> 00:20:17,875
+<i>♪ Secret tunnel ♪</i>
+
+309
+00:20:18,500 --> 00:20:21,000
+<i>♪ Through the mountains ♪</i>
+
+310
+00:20:21,083 --> 00:20:28,000
+<i>♪ Secret, secret, secret, secret tunnel ♪</i>
+
+311
+00:20:28,083 --> 00:20:29,041
+Yeah!
+
+312
+00:20:30,583 --> 00:20:31,625
+They're doomed.
+
+313
+00:20:33,541 --> 00:20:37,208
+A full complement of Earthbenders
+just for one old man.
+
+314
+00:20:37,916 --> 00:20:38,833
+I'm flattered.
+
+315
+00:20:40,208 --> 00:20:42,583
+- Hold!
+- Hold here.
+
+316
+00:20:42,666 --> 00:20:44,291
+- Hold!
+- Hold.
+
+317
+00:20:49,916 --> 00:20:51,083
+Just a precaution.
+
+318
+00:20:53,000 --> 00:20:55,416
+Many around these parts
+would be very interested to know
+
+319
+00:20:55,500 --> 00:20:58,166
+that the famed Dragon of the West
+is in their midst.
+
+320
+00:20:58,250 --> 00:21:02,291
+The Fire Nation general
+who laid siege to Ba Sing Se for 600 days.
+
+321
+00:21:02,875 --> 00:21:05,666
+Someone might be tempted
+to take matters into their own hands.
+
+322
+00:21:06,625 --> 00:21:08,416
+We can't let that happen, can we?
+
+323
+00:21:10,416 --> 00:21:13,833
+Now, is there anything I can do
+to make your journey more comfortable?
+
+324
+00:21:16,500 --> 00:21:17,416
+I'm fine.
+
+325
+00:21:18,166 --> 00:21:19,041
+Thank you.
+
+326
+00:21:25,625 --> 00:21:28,666
+You sure?
+Come on, don't hesitate to speak up.
+
+327
+00:21:30,375 --> 00:21:31,875
+It's a long ride to the Pit.
+
+328
+00:21:34,791 --> 00:21:37,166
+And I've got all the time in the world.
+
+329
+00:21:45,250 --> 00:21:46,833
+Very well, men. Mount up.
+
+330
+00:22:01,125 --> 00:22:02,541
+So you wanna go north.
+
+331
+00:22:02,625 --> 00:22:04,166
+North is…
+
+332
+00:22:04,250 --> 00:22:05,375
+…not good.
+
+333
+00:22:05,458 --> 00:22:07,375
+There's fire all over the north.
+
+334
+00:22:07,458 --> 00:22:10,041
+I don't have a choice.
+It's where I need to go.
+
+335
+00:22:10,125 --> 00:22:13,666
+A word of advice. The direct path
+is not always the best path.
+
+336
+00:22:13,750 --> 00:22:16,333
+You mean
+I should take the route that doesn't?
+
+337
+00:22:22,500 --> 00:22:25,458
+It means you should be careful
+where you step.
+
+338
+00:22:25,541 --> 00:22:26,375
+Ha!
+
+339
+00:22:29,583 --> 00:22:31,125
+Bumi, what is this?
+
+340
+00:22:37,208 --> 00:22:38,375
+Yah!
+
+341
+00:22:55,291 --> 00:22:57,166
+Bumi, what are you trying to prove?
+
+342
+00:22:57,250 --> 00:22:58,791
+Prove? Eh.
+
+343
+00:22:58,875 --> 00:23:03,083
+Maybe I'm trying to show you
+there are no easy journeys for the Avatar.
+
+344
+00:23:03,833 --> 00:23:08,000
+Maybe I just wanted to play a game
+like we did back in the old days.
+
+345
+00:23:08,833 --> 00:23:13,791
+And maybe I just wanted
+a bite of rock candy.
+
+346
+00:23:41,916 --> 00:23:43,000
+I'm coming, Uncle.
+
+347
+00:23:53,000 --> 00:23:53,833
+This way.
+
+348
+00:23:55,083 --> 00:23:56,500
+Is that what the map says?
+
+349
+00:23:57,041 --> 00:24:00,375
+Mmm, the map's unclear, but I got a hunch.
+
+350
+00:24:01,333 --> 00:24:03,166
+A hunch?
+
+351
+00:24:03,708 --> 00:24:06,833
+Yeah, a hunch. A feeling, an instinct.
+
+352
+00:24:10,125 --> 00:24:11,458
+You see that?
+
+353
+00:24:13,750 --> 00:24:14,875
+Put out your light.
+
+354
+00:24:20,458 --> 00:24:22,041
+Well, what do you know?
+
+355
+00:24:22,791 --> 00:24:26,000
+"Love is brightest in the dark."
+Get it? It was a clue.
+
+356
+00:24:27,375 --> 00:24:30,458
+You have to let it get dark
+so you can follow the light.
+
+357
+00:24:30,541 --> 00:24:32,000
+That's how you find the path.
+
+358
+00:24:32,791 --> 00:24:34,750
+The light of crystals?
+
+359
+00:24:35,833 --> 00:24:37,625
+These things are everywhere.
+
+360
+00:24:37,708 --> 00:24:39,750
+On the walls. On the floor.
+
+361
+00:24:39,833 --> 00:24:41,958
+-They're pretty random.
+-It's a path.
+
+362
+00:24:42,041 --> 00:24:44,833
+It said "love is brightest in the dark,"
+not "glowy rocks."
+
+363
+00:24:44,916 --> 00:24:45,875
+Poetic license.
+
+364
+00:24:45,958 --> 00:24:48,125
+Like the minstrel said,
+love is the answer.
+
+365
+00:24:48,208 --> 00:24:50,333
+Love is all you need.
+Love makes the world go round.
+
+366
+00:24:50,416 --> 00:24:52,000
+You're listening to the minstrels?
+
+367
+00:24:53,333 --> 00:24:56,041
+-Sokka, wait!
+-Katara, what is your problem?
+
+368
+00:24:56,125 --> 00:24:58,291
+My problem is
+you're not taking me seriously.
+
+369
+00:24:59,125 --> 00:24:59,958
+This again.
+
+370
+00:25:00,041 --> 00:25:02,791
+-I'm not a little girl anymore.
+-Yet you keep acting like one.
+
+371
+00:25:02,875 --> 00:25:04,708
+And you keep acting
+like you know everything
+
+372
+00:25:04,791 --> 00:25:07,666
+when you couldn't even tell
+that a traitor was flat out lying to you.
+
+373
+00:25:07,750 --> 00:25:10,416
+-Says the girl who fell for a terrorist!
+-That's not what happened!
+
+374
+00:25:10,500 --> 00:25:13,458
+-You should've never talked to him!
+-You don't get to tell me who to talk to!
+
+375
+00:25:13,541 --> 00:25:16,250
+-You don't get to ignore me!
+-I can if you're being an idiot!
+
+376
+00:25:16,333 --> 00:25:18,375
+-Dad put me in charge!
+-You're not Dad!
+
+377
+00:25:18,458 --> 00:25:19,541
+Dad!
+
+378
+00:25:34,208 --> 00:25:36,416
+Guess we're not in Wolf Cove anymore,
+are we?
+
+379
+00:25:38,041 --> 00:25:38,916
+Guess not.
+
+380
+00:25:43,000 --> 00:25:45,333
+Imagine if Gran Gran could see us now.
+
+381
+00:25:49,083 --> 00:25:51,166
+Really could go
+for some of her seal jerky.
+
+382
+00:25:51,666 --> 00:25:52,708
+Or her noodles.
+
+383
+00:25:53,625 --> 00:25:55,041
+With the hot broth.
+
+384
+00:25:55,125 --> 00:25:56,333
+We'll get some soon.
+
+385
+00:25:58,041 --> 00:25:59,291
+You really think so?
+
+386
+00:26:03,875 --> 00:26:04,791
+I don't know.
+
+387
+00:26:10,666 --> 00:26:11,583
+Come on.
+
+388
+00:26:12,250 --> 00:26:13,458
+We better get going.
+
+389
+00:26:17,416 --> 00:26:20,541
+Seal jerky. I never knew
+how you could eat that stuff.
+
+390
+00:26:24,375 --> 00:26:26,125
+Bring him here. Bring him here.
+
+391
+00:26:28,208 --> 00:26:29,625
+Put a saddle on that one.
+
+392
+00:26:39,208 --> 00:26:41,083
+Firebenders don't need water, right?
+
+393
+00:26:47,958 --> 00:26:49,375
+You know, at Ba Sing Se,
+
+394
+00:26:50,000 --> 00:26:53,458
+the city had to ration fresh water
+after the first year of the siege.
+
+395
+00:26:55,958 --> 00:26:57,291
+Being in the military,
+
+396
+00:26:58,166 --> 00:26:59,750
+we got special privileges.
+
+397
+00:27:03,833 --> 00:27:04,958
+My brother, though…
+
+398
+00:27:06,958 --> 00:27:08,250
+he had a soft heart.
+
+399
+00:27:11,625 --> 00:27:13,250
+He'd gather food and water
+from his platoon
+
+400
+00:27:13,333 --> 00:27:14,916
+and give them to the children.
+
+401
+00:27:17,500 --> 00:27:21,583
+He was on watch
+the night you torched the Eastern Wall.
+
+402
+00:27:24,333 --> 00:27:28,541
+By the time we put the fires out,
+there was nothing left of him to bury.
+
+403
+00:27:33,708 --> 00:27:35,041
+He was 19.
+
+404
+00:27:39,375 --> 00:27:40,791
+All those lives lost.
+
+405
+00:27:41,958 --> 00:27:43,125
+All that fighting.
+
+406
+00:27:44,250 --> 00:27:46,125
+And Ba Sing Se still stands.
+
+407
+00:27:48,458 --> 00:27:49,541
+Was it worth it?
+
+408
+00:27:52,041 --> 00:27:53,333
+We were at war.
+
+409
+00:27:54,166 --> 00:27:55,166
+I was a soldier.
+
+410
+00:27:55,250 --> 00:27:56,625
+You were a butcher!
+
+411
+00:28:05,791 --> 00:28:06,666
+You know…
+
+412
+00:28:09,500 --> 00:28:12,500
+I can still smell smoke
+when I go to sleep at night.
+
+413
+00:28:15,458 --> 00:28:17,000
+It never really goes away.
+
+414
+00:28:33,500 --> 00:28:35,250
+War pushes us to the edge.
+
+415
+00:28:36,541 --> 00:28:38,875
+Some of us don't like what we find there.
+
+416
+00:28:39,375 --> 00:28:42,458
+Is that your pitiful way
+of saying you're sorry for what you did?
+
+417
+00:28:43,791 --> 00:28:45,958
+I wasn't talking about me.
+
+418
+00:28:56,208 --> 00:28:57,041
+Sir.
+
+419
+00:29:01,250 --> 00:29:02,208
+Stay back.
+
+420
+00:29:10,041 --> 00:29:11,583
+Oh, it's true, isn't it?
+
+421
+00:29:14,500 --> 00:29:16,375
+You have no humanity.
+
+422
+00:29:19,166 --> 00:29:22,166
+You know nothing of loss.
+
+423
+00:29:46,916 --> 00:29:48,541
+Is it true he abandoned the siege?
+
+424
+00:29:48,625 --> 00:29:50,875
+Yes, after his son was killed.
+
+425
+00:29:50,958 --> 00:29:54,625
+So his son dies a hero,
+and he'll be forever known as a coward.
+
+426
+00:29:59,250 --> 00:30:03,250
+Brother, take comfort in knowing
+that Lu Ten will forever be hailed
+
+427
+00:30:03,333 --> 00:30:06,166
+as a champion of the Fire Nation.
+
+428
+00:30:06,875 --> 00:30:07,958
+Thank you, Ozai.
+
+429
+00:30:11,250 --> 00:30:13,833
+His sacrifice will be enshrined in legend.
+
+430
+00:30:23,416 --> 00:30:24,250
+Uncle,
+
+431
+00:30:25,833 --> 00:30:29,041
+what a great honor for you and for Lu Ten
+
+432
+00:30:29,958 --> 00:30:32,041
+to die in the service of the Fire Nation.
+
+433
+00:30:52,000 --> 00:30:57,166
+When my studies weren't going well
+and Father was unhappy,
+
+434
+00:30:58,500 --> 00:31:00,958
+Lu Ten gave me this.
+
+435
+00:31:02,291 --> 00:31:06,916
+He had won it
+for finishing first in his officer class.
+
+436
+00:31:09,708 --> 00:31:14,708
+He said it should belong
+to someone destined to do great things.
+
+437
+00:31:14,791 --> 00:31:16,208
+It gave me strength.
+
+438
+00:31:33,625 --> 00:31:35,375
+Lu Ten never needed it
+
+439
+00:31:35,458 --> 00:31:37,708
+because he was
+the strongest person I knew.
+
+440
+00:32:26,500 --> 00:32:27,791
+You're getting good at that.
+
+441
+00:32:28,791 --> 00:32:31,208
+Practice and some good instruction.
+
+442
+00:32:31,958 --> 00:32:33,291
+Yeah? From the scroll?
+
+443
+00:32:34,250 --> 00:32:35,125
+Yeah.
+
+444
+00:32:36,250 --> 00:32:39,458
+And Jet, he helped me through some things.
+
+445
+00:32:41,416 --> 00:32:44,208
+He lost family, just like us.
+
+446
+00:32:44,291 --> 00:32:46,666
+He knows how those memories
+can hold you back.
+
+447
+00:32:47,291 --> 00:32:49,666
+He got me to see
+that I'd only been thinking about
+
+448
+00:32:49,750 --> 00:32:52,791
+how Mom died and not how she lived.
+
+449
+00:32:55,083 --> 00:32:58,875
+Jet might have gone down the wrong path,
+but he was pushed that way.
+
+450
+00:32:59,375 --> 00:33:00,500
+Just like Sai was.
+
+451
+00:33:05,333 --> 00:33:07,375
+You know, Sai told me
+I should be an engineer.
+
+452
+00:33:08,583 --> 00:33:09,958
+That was my true calling.
+
+453
+00:33:12,333 --> 00:33:14,083
+- You believe that?
+- I don't know.
+
+454
+00:33:14,166 --> 00:33:17,125
+But it was nice to hear someone tell me
+I had something to offer the world.
+
+455
+00:33:18,041 --> 00:33:20,291
+Besides my superior fighting skills.
+
+456
+00:33:22,583 --> 00:33:23,541
+Sokka.
+
+457
+00:33:24,458 --> 00:33:27,375
+What I said about you and Dad…
+
+458
+00:33:28,583 --> 00:33:29,416
+Forget it.
+
+459
+00:33:30,166 --> 00:33:33,791
+You led the tribe and protected us
+with nobody to help you.
+
+460
+00:33:35,375 --> 00:33:37,958
+Dad never had to bear
+that kind of burden alone.
+
+461
+00:33:40,416 --> 00:33:41,875
+You had it harder than him.
+
+462
+00:33:53,541 --> 00:33:56,458
+Oh, that's not right.
+
+463
+00:33:58,375 --> 00:34:01,208
+The crystals were just crystals,
+like I thought.
+
+464
+00:34:10,333 --> 00:34:13,916
+This shouldn't be here.
+We were here before, but this wall wasn't.
+
+465
+00:34:14,000 --> 00:34:15,250
+How is that possible?
+
+466
+00:34:16,125 --> 00:34:17,208
+It's not.
+
+467
+00:34:18,625 --> 00:34:19,583
+Unless…
+
+468
+00:34:21,250 --> 00:34:22,875
+The tunnels are changing.
+
+469
+00:34:27,416 --> 00:34:31,916
+Ah, behind these doors
+lies a fearsome challenge.
+
+470
+00:34:32,000 --> 00:34:35,416
+A true test of whether or not
+you are prepared to be the Avatar.
+
+471
+00:34:37,208 --> 00:34:38,666
+-Bumi.
+-Ah.
+
+472
+00:34:38,750 --> 00:34:42,125
+All these challenges, games, tests,
+none of them make any sense.
+
+473
+00:34:42,208 --> 00:34:44,666
+Nothing has made sense in a hundred years.
+
+474
+00:34:45,916 --> 00:34:47,208
+This isn't who you are.
+
+475
+00:34:48,250 --> 00:34:52,041
+The Bumi I know is a fun-loving, happy kid
+
+476
+00:34:52,125 --> 00:34:55,625
+who loves to skip rocks
+and always thinks about his friends.
+
+477
+00:34:56,541 --> 00:34:57,541
+Huh…
+
+478
+00:34:58,583 --> 00:35:00,916
+I believe that kid is still in there.
+
+479
+00:35:03,708 --> 00:35:04,916
+Very clever.
+
+480
+00:35:06,291 --> 00:35:09,833
+It's all about games with you,
+isn't it, Avatar?
+
+481
+00:35:09,916 --> 00:35:12,375
+Who cares about responsibility?
+
+482
+00:35:12,458 --> 00:35:15,875
+Who cares about, oh, saving the world?
+
+483
+00:35:15,958 --> 00:35:19,583
+No. More fun to goof off. Am I right?
+
+484
+00:35:21,250 --> 00:35:22,083
+Well,
+
+485
+00:35:23,583 --> 00:35:27,625
+let's play one final game.
+
+486
+00:35:46,500 --> 00:35:47,875
+As promised,
+
+487
+00:35:49,375 --> 00:35:53,541
+one final game to play, Avatar.
+
+488
+00:35:53,625 --> 00:35:56,041
+The simplest one of all.
+
+489
+00:35:56,666 --> 00:35:59,583
+You versus me.
+
+490
+00:36:05,458 --> 00:36:07,708
+To the death.
+
+491
+00:36:12,041 --> 00:36:14,000
+This is crazy. How can tunnels change?
+
+492
+00:36:14,083 --> 00:36:16,958
+-I knew the crystals were wrong.
+-Can we do I-told-you-so later?
+
+493
+00:36:21,291 --> 00:36:22,916
+Any chance I imagined that?
+
+494
+00:36:36,500 --> 00:36:37,500
+Badgermole.
+
+495
+00:36:53,375 --> 00:36:54,500
+Ah!
+
+496
+00:37:03,375 --> 00:37:05,375
+Help him.
+
+497
+00:37:34,083 --> 00:37:34,958
+Huh?
+
+498
+00:37:43,458 --> 00:37:44,541
+Do it.
+
+499
+00:37:46,416 --> 00:37:47,291
+Do it!
+
+500
+00:37:49,041 --> 00:37:50,708
+We've all seen enough death.
+
+501
+00:38:04,375 --> 00:38:07,041
+That's what you get
+for showing an Earthbender compassion.
+
+502
+00:38:11,958 --> 00:38:14,041
+Ah!
+
+503
+00:38:14,125 --> 00:38:14,958
+You're okay.
+
+504
+00:38:16,541 --> 00:38:17,750
+We need to go.
+
+505
+00:38:19,083 --> 00:38:20,750
+-I think you should rest--
+-No time.
+
+506
+00:38:20,833 --> 00:38:22,833
+They'll send more soldiers soon.
+
+507
+00:38:22,916 --> 00:38:24,916
+We have to leave now.
+
+508
+00:38:33,666 --> 00:38:34,916
+Ah!
+
+509
+00:38:35,541 --> 00:38:36,500
+Katara!
+
+510
+00:38:44,666 --> 00:38:45,541
+Thanks.
+
+511
+00:38:55,500 --> 00:38:56,333
+Dead end.
+
+512
+00:39:02,708 --> 00:39:03,791
+Katara, I'm sorry.
+
+513
+00:39:05,083 --> 00:39:06,166
+I'm sorry too.
+
+514
+00:39:15,416 --> 00:39:17,125
+What's going on? Are we dead?
+
+515
+00:39:26,500 --> 00:39:28,416
+"Love is brightest in the dark."
+
+516
+00:39:29,916 --> 00:39:31,583
+It wasn't about the crystals.
+
+517
+00:39:31,666 --> 00:39:34,000
+That's not what guided Oma and Shu
+through the mountain.
+
+518
+00:39:42,666 --> 00:39:43,666
+It's blind.
+
+519
+00:39:44,208 --> 00:39:47,166
+They don't navigate by sight
+but by feeling.
+
+520
+00:39:48,208 --> 00:39:50,458
+They sense feelings and react to them.
+
+521
+00:39:51,166 --> 00:39:54,083
+Anger, fear, but mostly love.
+
+522
+00:39:56,583 --> 00:39:58,500
+"Love is brightest in the dark."
+
+523
+00:40:00,666 --> 00:40:02,250
+So they respond to love?
+
+524
+00:40:04,333 --> 00:40:06,291
+How do you think they do
+with verbal commands?
+
+525
+00:40:06,375 --> 00:40:09,125
+Uh, excuse me, Mr. Badgermole.
+
+526
+00:40:09,833 --> 00:40:12,750
+We'd really appreciate it if you could
+show us the way to the palace.
+
+527
+00:40:13,458 --> 00:40:14,333
+Please?
+
+528
+00:40:26,125 --> 00:40:27,000
+Uh…
+
+529
+00:40:36,208 --> 00:40:38,375
+Ah!
+
+530
+00:40:53,875 --> 00:40:56,041
+Please, Bumi! You don't have to do this!
+
+531
+00:40:56,125 --> 00:40:57,500
+Oh, but I do.
+
+532
+00:40:58,083 --> 00:41:01,541
+Some of us have to fight
+even when we don't want to.
+
+533
+00:41:01,625 --> 00:41:04,000
+That's what it means to be in a war!
+
+534
+00:41:08,708 --> 00:41:10,875
+No!
+
+535
+00:41:12,541 --> 00:41:14,291
+Ah!
+
+536
+00:41:17,875 --> 00:41:21,458
+You'd have known about that
+if you'd been around, but you weren't.
+
+537
+00:41:23,500 --> 00:41:24,583
+You left us.
+
+538
+00:41:27,291 --> 00:41:29,541
+You were the Avatar.
+
+539
+00:41:30,750 --> 00:41:32,625
+And you left us.
+
+540
+00:41:36,125 --> 00:41:39,041
+In this world, you can't rely on anyone,
+
+541
+00:41:39,958 --> 00:41:41,250
+even your friends.
+
+542
+00:41:48,375 --> 00:41:50,375
+Especially your friends.
+
+543
+00:42:00,208 --> 00:42:02,208
+Ah.
+
+544
+00:42:21,125 --> 00:42:23,791
+Well, as fun as this has been,
+
+545
+00:42:23,875 --> 00:42:28,166
+it's time for the games to end.
+
+546
+00:42:32,708 --> 00:42:33,625
+Ah!
+
+547
+00:42:35,000 --> 00:42:36,375
+Huh?
+
+548
+00:42:48,291 --> 00:42:51,041
+Bumi, I can't hold both of them. Help me!
+
+549
+00:42:51,125 --> 00:42:52,083
+Let it fall.
+
+550
+00:42:52,583 --> 00:42:54,958
+Let it fall, and you win.
+
+551
+00:42:55,041 --> 00:42:58,000
+-Bumi, this isn't a game!
+-Yes, it is.
+
+552
+00:42:58,708 --> 00:43:02,166
+One that requires you
+to make impossible choices.
+
+553
+00:43:02,250 --> 00:43:05,291
+Do I save this town or that?
+
+554
+00:43:05,375 --> 00:43:09,291
+Who gets the last of the food scraps?
+The orphanage or the soldiers?
+
+555
+00:43:09,375 --> 00:43:12,375
+You have to make choices like that
+
+556
+00:43:12,458 --> 00:43:16,750
+day after day, year after year.
+
+557
+00:43:16,833 --> 00:43:20,666
+And that's just to save this one city.
+
+558
+00:43:20,750 --> 00:43:23,541
+You have to save the whole world.
+
+559
+00:43:23,625 --> 00:43:24,916
+Let it fall, Aang,
+
+560
+00:43:25,791 --> 00:43:29,833
+and learn what it means to be the Avatar.
+
+561
+00:43:30,625 --> 00:43:31,583
+No!
+
+562
+00:43:35,708 --> 00:43:38,708
+Then the world is doomed.
+
+563
+00:43:44,583 --> 00:43:45,750
+Sokka, get the king.
+
+564
+00:43:50,041 --> 00:43:51,458
+Huh?
+
+565
+00:43:51,541 --> 00:43:52,791
+Ah!
+
+566
+00:43:52,875 --> 00:43:54,166
+Aang, now!
+
+567
+00:43:59,291 --> 00:44:00,166
+Are you okay?
+
+568
+00:44:02,458 --> 00:44:04,833
+Well, kid, you sure know
+how to bring the house down.
+
+569
+00:44:09,750 --> 00:44:12,791
+Cheater! You cheated!
+
+570
+00:44:13,291 --> 00:44:15,375
+You didn't do it on your own,
+
+571
+00:44:15,458 --> 00:44:18,708
+so you didn't learn anything at all.
+
+572
+00:44:18,791 --> 00:44:20,000
+You were wrong.
+
+573
+00:44:20,083 --> 00:44:22,333
+You can rely on your friends,
+
+574
+00:44:22,833 --> 00:44:26,208
+and that's the only way
+I'm gonna save the world.
+
+575
+00:44:27,416 --> 00:44:28,833
+With my friends.
+
+576
+00:44:28,916 --> 00:44:31,958
+You think like a child.
+
+577
+00:44:34,250 --> 00:44:36,000
+Is that really so bad?
+
+578
+00:44:38,166 --> 00:44:39,041
+Huh?
+
+579
+00:44:41,833 --> 00:44:42,750
+Remember this?
+
+580
+00:44:43,875 --> 00:44:45,416
+I use it to call a friend.
+
+581
+00:44:47,875 --> 00:44:49,291
+That's what I'm gonna do now.
+
+582
+00:44:51,958 --> 00:44:53,708
+Call on an old friend.
+
+583
+00:45:00,208 --> 00:45:01,208
+You were right.
+
+584
+00:45:03,333 --> 00:45:06,375
+I wasn't here for the world. Or for you.
+
+585
+00:45:08,708 --> 00:45:09,791
+But I'm here now.
+
+586
+00:45:23,583 --> 00:45:24,666
+Your Highness,
+
+587
+00:45:25,666 --> 00:45:27,666
+we've called up the reinforcements.
+
+588
+00:45:28,500 --> 00:45:30,958
+And… and…
+and you doubled the guards on the walls?
+
+589
+00:45:31,041 --> 00:45:34,208
+-Yes, Your Highness.
+-Good. Tell them I'll be there soon.
+
+590
+00:45:35,708 --> 00:45:37,291
+Wait, what's going on?
+
+591
+00:45:38,291 --> 00:45:42,208
+Fire Nation forces are on the move.
+They'll be here by dawn.
+
+592
+00:45:42,291 --> 00:45:43,708
+You're under attack?
+
+593
+00:45:43,791 --> 00:45:47,708
+We will be, but we will be ready.
+
+594
+00:45:47,791 --> 00:45:50,750
+Fortunately, a source tipped us off.
+
+595
+00:45:52,958 --> 00:45:54,041
+Sai?
+
+596
+00:45:54,125 --> 00:45:57,416
+The mechanist alerted the generals
+to a network of spies in the city.
+
+597
+00:45:57,500 --> 00:46:01,291
+Helped us round them up.
+Now, all of you get out of here.
+
+598
+00:46:01,875 --> 00:46:06,625
+The Avatar has places he has to be.
+We can take care of ourselves.
+
+599
+00:46:07,333 --> 00:46:10,500
+It's time Omashu rejoined the war.
+
+600
+00:46:11,958 --> 00:46:17,791
+Oh, uh, but I do have
+one more challenge for you.
+
+601
+00:46:25,916 --> 00:46:27,458
+My cabbages!
+
+602
+00:46:38,000 --> 00:46:39,958
+Ah.
+
+603
+00:46:47,750 --> 00:46:50,833
+It seems we are always
+getting on or off boats.
+
+604
+00:46:52,041 --> 00:46:54,666
+Perhaps that is our lot in life,
+Prince Zuko.
+
+605
+00:47:27,333 --> 00:47:29,916
+Ah, good. It's not too late.
+
+606
+00:47:31,000 --> 00:47:33,333
+- What are you doing here, Uncle?
+- Same as you.
+
+607
+00:47:33,416 --> 00:47:37,250
+Getting ready to embark
+on what is sure to be a memorable journey.
+
+608
+00:47:39,750 --> 00:47:41,125
+You wanna come with me?
+
+609
+00:47:41,708 --> 00:47:44,666
+I've come fully prepared.
+All the tea I need.
+
+610
+00:47:47,250 --> 00:47:48,791
+I don't need a babysitter.
+
+611
+00:47:55,375 --> 00:47:56,500
+How about a friend?
+
+612
+00:48:08,750 --> 00:48:10,750
+My father made it very clear
+
+613
+00:48:11,750 --> 00:48:14,458
+that I'm not to return
+until I find the Avatar…
+
+614
+00:48:16,458 --> 00:48:17,416
+which means
+
+615
+00:48:18,625 --> 00:48:21,583
+it could be a very long time
+before we return home.
+
+616
+00:48:27,041 --> 00:48:27,916
+Home.
+
+617
+00:48:32,041 --> 00:48:35,250
+Everything I need is on this boat.
+
+618
+00:48:42,250 --> 00:48:45,541
+Like I said, all the tea I need, hmm?
+
+619
+00:49:06,125 --> 00:49:07,250
+What is it, Zuko?
+
+620
+00:49:08,541 --> 00:49:09,583
+Nothing.
+
+621
+00:49:12,833 --> 00:49:13,958
+Let's get you home.
+
